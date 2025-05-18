@@ -25,6 +25,8 @@ This repository serves as the backend API that interacts with a MongoDB database
 
 ## 🌐 Live API
 
+https://blogs-backend-production.up.railway.app/
+
 
 
 ---
